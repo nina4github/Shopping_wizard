@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Poppelvaegent WIZARD OF OZ</string>
+    <string name="scenarioHello">Choose the Scenario Action relevant to support. You can share Activity (START and STOP and Data) or LOCATION (ENTER and LEAVE) or SHARE an OFFER example </string>
+    <string name="app_name">PersonalEMWizard</string>
+
+    <string-array name="usernames">
+        <item>bagrollator01</item>
+        <item>bagrollator02</item>
+        <item>bagrollator03</item>
+        <item>bagrollator04</item>
+        <item>bagrollator05</item>
+    </string-array>
+
+    <string name="thing01">bagrollator01</string>
+    <string name="thing02">bagrollator02</string>
+    <string name="thing03">bagrollator03</string>
+    <string name="thing04">bagrollator04</string>
+    <string name="thing05">bagrollator05</string>
+    
+        <string name="person01">user01</string>
+    <string name="person02">user02</string>
+    <string name="person03">user03</string>
+    <string name="person04">user04</string>
+    <string name="person05">user05</string>
+     
+     
+     <string name="place01">place01</string>
+        
+     <string name="scenarioButton_activity_start">Start</string>
+     <string name="scenarioButton_activity_stop">Stop</string>
+     <string name="scenarioButton_activity_data">Meters</string>
+     <string name="scenarioButton_activity_spark">Spark</string>
+     
+      <string name="scenarioButton_location_enter">Enter Fakta</string>
+      <string name="scenarioButton_location_leave">Leave Fakta</string>
+      <string name="adduser">eg. user01</string>
+     
+         
+
+</resources>

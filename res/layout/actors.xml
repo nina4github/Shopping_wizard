@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical" >
+
+    <TextView
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/hello" android:textSize="30dip" android:layout_margin="10dip"/>
+
+   
+
+    <LinearLayout
+        android:id="@+id/linearLayout1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" android:background="#ffffff" android:paddingTop="10dip">
+
+        <Button
+            android:id="@+id/buttonT1"
+            android:layout_width="100dp"
+            android:layout_height="wrap_content"
+            android:text="@string/thing01" android:layout_margin="2dp"/>
+
+        <Button
+            android:id="@+id/buttonT2"
+            android:layout_width="100dp"
+            android:layout_height="wrap_content"
+            android:text="@string/thing02" android:layout_margin="2dp"/>
+       
+        <Button
+            android:id="@+id/buttonT3"
+            android:layout_width="100dp"
+            android:layout_height="wrap_content"
+            android:layout_margin="2dp"
+            android:text="@string/thing03" />
+        
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/linearLayout2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" android:background="#ffffff" android:paddingBottom="10dip">
+
+        
+
+        <Button
+            android:id="@+id/buttonT4"
+            android:layout_width="100dp"
+            android:layout_height="wrap_content"
+            android:text="@string/thing04" android:layout_margin="2dp"/>
+        
+         <Button
+             android:id="@+id/buttonT5"
+             android:layout_width="100dp"
+             android:layout_height="wrap_content"
+             android:layout_margin="2dp"
+             android:text="@string/thing05" />
+
+    </LinearLayout>
+    
+        
+    <LinearLayout
+        android:id="@+id/linearLayout3"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" android:background="#888888" android:paddingTop="10dip">
+
+        <Button
+            android:id="@+id/buttonP1"
+            android:layout_width="100dp"
+            android:layout_height="wrap_content"
+            android:text="@string/person01" android:layout_margin="2dp"/>
+
+        <Button
+            android:id="@+id/buttonP2"
+            android:layout_width="100dp"
+            android:layout_height="wrap_content"
+            android:text="@string/person02" android:layout_margin="2dp"/>
+       
+        <Button
+            android:id="@+id/buttonP3"
+            android:layout_width="100dp"
+            android:layout_height="wrap_content"
+            android:layout_margin="2dp"
+            android:text="@string/person03" />
+        
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/linearLayout4"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" android:background="#888888" android:paddingBottom="10dip">
+
+        
+
+        <Button
+            android:id="@+id/buttonP4"
+            android:layout_width="100dp"
+            android:layout_height="wrap_content"
+            android:text="@string/person04" android:layout_margin="2dp"/>
+        
+         <Button
+             android:id="@+id/buttonP5"
+             android:layout_width="100dp"
+             android:layout_height="wrap_content"
+             android:layout_margin="2dp"
+             android:text="@string/person05" />
+
+    </LinearLayout>
+    
+         <LinearLayout
+        android:id="@+id/linearLayout5"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" android:background="#ffffff" android:paddingTop="10dip" android:paddingBottom="10dip">
+
+        
+
+        <Button
+            android:id="@+id/buttonPl1"
+            android:layout_width="100dp"
+            android:layout_height="wrap_content"
+            android:text="@string/place01" android:layout_margin="2dp"/>
+        
+
+    </LinearLayout>
+
+</LinearLayout>
