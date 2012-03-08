@@ -1,0 +1,13 @@
+This is the wizard developed to interact with the Shopping and Shopping_phone applications
+It supports the functionalities of a Wizard of OZ
+
+Select among things, persons and places
+---------------------- 
+things can share about activities they performe
+persons can share sparks they find
+places can share what enters and what leaves them
+---------------------
+
+remember: this only works on networks that allows ports 8000 and 8080
+
+---------------------
